@@ -26,7 +26,7 @@
  🌱 Full stack developer with 2 years of industrial experience.<br><br>
  🤝 Good knowledge in eCommerce domain systems.<br><br>
  🌱 Admin of Opensource platforms like Bx001 security, Mongo-mails,..<br><br>
- 📝 Auther of npm packages like auditit<br><br>
+ 📝 Auther of npm packages like AUDIT-IT<br><br>
  📫 How to reach me anoopsunitha007@gmail.com
 </div>
 
